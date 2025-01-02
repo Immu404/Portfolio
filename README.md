@@ -48,10 +48,10 @@ My journey in Cybersecurity has led me to develop a passion for cybersecurity, a
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"](https://img.shields.io/badge/ITIL-Foundation-blue />
+<img src="https://img.shields.io/badge/LPI%20Linux%20Essentials-Linux-yellow" />
+<img src="https://img.shields.io/badge/CySA%2B-CompTIA-blue" />
+<img src="https://img.shields.io/badge/CCSP-(ISC)%2B-blue" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
