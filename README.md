@@ -15,7 +15,7 @@ My journey in Cybersecurity has led me to develop a passion for cybersecurity, a
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Analysis of Network Hardening                   | <a href="https://google.com">Detection Lab</a>|
+| Analysis of Network Hardening                   | <a href="https://github.com/Immu404/Analysis-of-network-hardening/blob/main/README.md">Risk Assessment</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Network Layer Communication                     | SOC Automation Lab|
 | Application of OS Hardening                     | SOC Automation Lab|
