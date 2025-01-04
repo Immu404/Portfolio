@@ -1,12 +1,12 @@
 # Hello, I'm Dustin
 <a href="https://www.linkedin.com/in/dustin-cook-3a21a31b8/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My journey in Cybersecurity has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -18,11 +18,11 @@ My journey in Cybersecurity has led me to develop a passion for cybersecurity, a
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Immu404/NetworkAttacks/blob/main/README.md">SYN Flood attack report</a>|
 | Install software in a Linux distribution        | <a href="https://github.com/Immu404/Install-software-in-Linux/blob/main/README.md"> Linux Lab</a>|
 | Application of OS Hardening                     | <a href="https://github.com/Immu404/OSHardening/blob/main/README.md">OS Hardening</a>|
-| TBD       | TBD|
+| File Permissions in Linux                       | <a href="https://github.com/Immu404/File-Permissions-in-Linux/blob/main/README.md">File Permissions</a>|
 | TBD | TBD|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
