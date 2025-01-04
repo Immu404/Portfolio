@@ -11,13 +11,12 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in Cybersecurity has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Analysis of Network Hardening                   | <a href="https://github.com/Immu404/Analysis-of-network-hardening/blob/main/README.md">Risk Assessment</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Immu404/NetworkAttacks/blob/main/README.md">SYN Flood attack report</a>|
-| Network Layer Communication                     | SOC Automation Lab|
+| Install software in a Linux distribution        | <a href="https://github.com/Immu404/Install-software-in-Linux/blob/main/README.md"> Linux Lab</a>|
 | Application of OS Hardening                     | <a href="https://github.com/Immu404/OSHardening/blob/main/README.md">OS Hardening</a>|
 | TBD       | TBD|
 | TBD | TBD|
