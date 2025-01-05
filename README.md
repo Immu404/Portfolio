@@ -19,7 +19,7 @@ My journey in Cybersecurity has led me to develop a passion for cybersecurity, a
 | Install software in a Linux distribution        | <a href="https://github.com/Immu404/Install-software-in-Linux/blob/main/README.md"> Linux Lab</a>|
 | Application of OS Hardening                     | <a href="https://github.com/Immu404/OSHardening/blob/main/README.md">OS Hardening</a>|
 | File Permissions in Linux                       | <a href="https://github.com/Immu404/File-Permissions-in-Linux/blob/main/README.md">File Permissions</a>|
-| TBD | TBD|
+| SQL Filtering                                   | <a href="https://github.com/Immu404/SQL-Filtering/blob/main/README.md">SQL Filtering</a>|
 
 ## Tools
 
