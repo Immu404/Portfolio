@@ -3,12 +3,12 @@
 
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm currently enrolled in college pursuing a degree in Computer Science.
 
 ## Objective
 
 
-My journey in Cybersecurity has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Aspiring software and systems professional currently studying Computer Science and pivoting into the technology industry. I’m passionate about applying my growing expertise in Python, SQL, Java, and Linux to develop efficient, real-world solutions. My projects reflect a focus on data-driven problem solving, automation, and clean, maintainable code. With a background in sales and management, I bring strong communication, organization, and leadership skills to collaborative technical environments.
 
 ## Skills
 
@@ -45,10 +45,14 @@ My journey in Cybersecurity has led me to develop a passion for cybersecurity, a
 </div>
 
 ## Certifications
+<div>
+    <a href="https://www.credly.com/badges/4b2a178d-69b2-4dc0-bc75-6a23f4160eed/linked_in_profile" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate%20V2-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</a>
 
 
 </div>
 
+</div>
+
 ## Projects
-- Detection Lab
-- SOC Automation Project
