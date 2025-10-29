@@ -45,19 +45,7 @@ My journey in Cybersecurity has led me to develop a passion for cybersecurity, a
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
 
-![ITIL](https://img.shields.io/badge/ITIL-Foundation-blue)
-![LPI Linux Essentials](https://img.shields.io/badge/LPI%20Linux%20Essentials-Linux-yellow)
-![Project+](https://img.shields.io/badge/Project%2B-CompTIA-orange)
-![CySA+](https://img.shields.io/badge/CySA%2B-CompTIA-blue)
-![CCSP](https://img.shields.io/badge/CCSP-(ISC)%2B-blue)
-![SSCP](https://img.shields.io/badge/SSCP-(ISC)%2B-blue)
-![Pentest+](https://img.shields.io/badge/Pentest%2B-CompTIA-purple)
-![Network+](https://img.shields.io/badge/Network%2B-CompTIA-blue)
-![Security+](https://img.shields.io/badge/Security%2B-CompTIA-green)
-![A+](https://img.shields.io/badge/A%2B-CompTIA-red)
 
 </div>
 
