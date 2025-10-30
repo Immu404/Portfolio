@@ -1,6 +1,4 @@
 # Hello, I'm Dustin
-<a href="https://www.linkedin.com/in/dustin-cook-3a21a31b8/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 
 
 I'm currently enrolled in college pursuing a degree in Computer Science.
